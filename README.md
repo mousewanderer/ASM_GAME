@@ -18,7 +18,7 @@ dice.
 it contains Both terminal-based for the text and pixel graphics for animation style.
 Enter the amount to bet:
 
-Excellence | Service | Leadership and Good Governance | Innovation | Social Responsibility | Integrity | Professionalism | Spirituality
+
 
 Select from 1 to 6 to place your bet:
 
@@ -83,7 +83,6 @@ which consist of animations.
 
 8. References: Tutorials, books, or example code used.
 
-Excellence | Service | Leadership and Good Governance | Innovation | Social Responsibility | Integrity | Professionalism | Spirituality
 For the dice logic: https://realpython.com/python-dice-roll/
 Betting system:
 https://gist.github.com/zemmyang/8da1b85acd64f483d1c82a4725e004c0
