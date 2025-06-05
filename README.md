@@ -17,22 +17,14 @@ dice.
 # User Interface (UI) DESIGN)
 it contains Both terminal-based for the text and pixel graphics for animation style.
 Enter the amount to bet:
+![Screenshot 2025-05-22 172801](https://github.com/user-attachments/assets/cbfed153-6120-4e9e-8997-009812d0bab3)
+![Screenshot 2025-05-22 174109](https://github.com/user-attachments/assets/72d395ce-4672-4011-a431-109563794a94)![Screenshot 2025-05-22 175802](https://github.com/user-attachments/assets/d67495d6-fe2d-4c64-a54d-624ce6580254)
+
+![Screenshot 2025-05-22 175435](https://github.com/user-attachments/assets/c57a6ed7-d5f5-48d5-a0f5-68fb3c353339)
+
+![Screenshot 2025-05-22 180959](https://github.com/user-attachments/assets/2c6c7a12-9071-4d53-9518-da01a9a5da63)
 
 
-
-Select from 1 to 6 to place your bet:
-
-Winning screen:
-
-Different number for every role (from the result of the dice):
-
-Losing screen:
-
-
-Game over:
-
-
-Exit:
 
 Controls List input methods:
 Click any number that is a valid number for betting which must be lesser or equal to
