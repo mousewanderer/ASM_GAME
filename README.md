@@ -80,6 +80,8 @@ which consist of animations.
 
 8. References: Tutorials, books, or example code used.
 
-For the dice logic: https://realpython.com/python-dice-roll/
+For the dice logic: 
+https://realpython.com/python-dice-roll/
+
 Betting system:
 https://gist.github.com/zemmyang/8da1b85acd64f483d1c82a4725e004c0
